@@ -1,0 +1,26 @@
+site_name: Birdie Docs
+nav:
+    - Home: index.md
+    - Agency Hub: agency-hub.md
+    - Care Professional App: care-pro-app.md
+    - Family App: family-app.md
+    - Third Party Access: third-party-access.md
+    - Services: services.md
+theme: 
+    name: material
+    language: en
+    palette:
+        scheme: preference
+        primary: deep purple
+        accent: pink
+    icon:
+        # logo: 'images/birdie_logo_white'
+        favicon: 'images/favicon.ico'
+# extra:
+#     social:
+#         - icon: fontawesome/brands/window-maximise
+#         link: https://www.birdie.care/
+#         - icon: fontawesome/brands/twitter
+#         link: https://twitter.com/BirdieCare
+#         - icon: fontawesome/brands/linkedin
+#         link: https://www.linkedin.com/company/birdiecare/
