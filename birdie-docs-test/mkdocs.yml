@@ -1,7 +1,9 @@
 site_name: Birdie Docs
 nav:
     - Home: index.md
-    - Agency Hub: agency-hub.md
+    - Agency Hub:
+        - agency-hub.md
+        - 'Assessments': 'agency-hub/assessments.md'
     - Care Professional App: care-pro-app.md
     - Family App: family-app.md
     - Third Party Access: third-party-access.md

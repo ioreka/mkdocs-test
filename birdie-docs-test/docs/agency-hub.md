@@ -1,4 +1,4 @@
-# Birdie Agency Hub
+# Agency Hub Overview
 
 The agency hub is the beating heart of Birdie agencies. Care managers and admins can organise and coordinate all care from here. 
 
