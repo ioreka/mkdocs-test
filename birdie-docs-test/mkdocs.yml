@@ -3,7 +3,16 @@ nav:
     - Home: index.md
     - Agency Hub:
         - agency-hub.md
-        - 'Assessments': 'agency-hub/assessments.md'
+        - Assessments:
+            - 'agency-hub/assessments/assessments.md'
+            - 'Details': 'agency-hub/assessments/details.md'
+            - 'FAQs': 'agency-hub/assessments/faqs.md'
+        - 'Alerts': 'agency-hub/alerts.md'
+        - 'Medication Scheduling': 'agency-hub/med-scheduling.md'
+        - 'Task Manager': 'agency-hub/tasks.md'
+        - 'Visit Planning': 'agency-hub/visit-planning.md'
+
+
     - Care Professional App: care-pro-app.md
     - Family App: family-app.md
     - Third Party Access: third-party-access.md
